@@ -6,7 +6,7 @@ body {
   overflow: hidden;
 }
 body .background {
-  background: url("http://updates.eveonline.com/kvd74o0q2fjg/6LSX4DQNTGA2gkaAoUyyGm/dc6ba3c2210c2385b76ca444543167cf/SUMMER_-_FLEET_BOOSTS_REWORKb412.jpg?w=1920&fm=jpg&fl=progressive") center center no-repeat;
+  background: url("../image.jpg") center center no-repeat;
   background-size: cover;
   position: absolute;
   top: 0;
